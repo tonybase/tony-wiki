@@ -76,9 +76,9 @@ lead_text: 'RESTFUL API'
 
 	{
 	    "id": 1,
-	    "name": "Tony"
-	    "email": "i@tony.wiki"
-	    "avatar": "http://www.tony.wiki/avatar.jpg"
+	    "name": "Tony",
+	    "email": "i@tony.wiki",
+	    "avatar": "http://www.tony.wiki/avatar.jpg",
 	    "created_at": "2016-04-01T19:12:34.448Z",
 	    "updated_at": "2016-04-01T19:12:34.448Z"
 	}
@@ -93,9 +93,9 @@ lead_text: 'RESTFUL API'
 
 	{
 	    "id": 1,
-	    "name": "Tony"
-	    "email": "i@tony.wiki"
-	    "avatar": "http://www.tony.wiki/avatar.jpg"
+	    "name": "Tony",
+	    "email": "i@tony.wiki",
+	    "avatar": "http://www.tony.wiki/avatar.jpg",
 	    "created_at": "2016-04-01T19:12:34.448Z",
 	    "updated_at": "2016-04-01T19:12:34.448Z"
 	}
@@ -104,7 +104,7 @@ lead_text: 'RESTFUL API'
 
 	name=Tony
 	email=i@tony.wiki
-	avatar="http://www.tony.wiki/avatar.jpg"
+	avatar=http://www.tony.wiki/avatar.jpg
 
 	201 Created
 
