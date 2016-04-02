@@ -58,11 +58,8 @@ lead_text: 'RESTFUL API'
 
 ## Resources
 
-#### GET
+#### GET /Users
 
-	/Users
-
-	200
 	[
 	    {
 	        "id": 1,
@@ -75,11 +72,8 @@ lead_text: 'RESTFUL API'
 	    ...
 	]
 
-#### GET
+#### GET /Users/{id}
 
-	/Users/{id}
-
-	200
 	{
 	    "id": 1,
 	    "name": "Tony"
@@ -89,20 +83,14 @@ lead_text: 'RESTFUL API'
 	    "updated_at": "2016-04-01T19:12:34.448Z"
 	}
 
-#### DELETE
-
-	/Users/{id}
+#### DELETE /Users/{id}
 	
 	204 No Content
 
-
-#### PUT
-
-	/Users/{id}
+#### PUT /Users/{id}
 
 	email=i@tony.wiki
 
-	200
 	{
 	    "id": 1,
 	    "name": "Tony"
@@ -112,9 +100,7 @@ lead_text: 'RESTFUL API'
 	    "updated_at": "2016-04-01T19:12:34.448Z"
 	}
 
-#### POST
-
-	/Users
+#### POST /Users
 
 	name=Tony
 	email=i@tony.wiki
