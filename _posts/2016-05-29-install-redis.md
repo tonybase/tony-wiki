@@ -32,6 +32,8 @@ lead_text: 'redis'
 
 	shell> tar -zxvf redis-3.2.0.tar.gz
 	shell> mv redis-3.2.0 /data/apps/redis
+	shell> cd /data/apps/redis
+	shell> make
 
 ## service script
 	
