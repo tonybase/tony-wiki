@@ -51,13 +51,13 @@ lead_text: 'mysql'
 	shell> chown -R root .
 	shell> chown -R mysql data mysql-files
 
-## auto start script
+## service script
 
 	shell> cp support-files/mysql.server /etc/init.d/mysql
 	shell> update-rc.d mysql defaults
 	shell> /etc/init.d/mysql start
 
-## login mysql, passowrd is empty.
+## login mysql, passowrd is empty
 
 	shell> mysql -u root
 	mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'chen'; # set Password
