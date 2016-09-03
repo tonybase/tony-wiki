@@ -1,6 +1,6 @@
 # Site Settings
-title: "Hello. I'm Tony Chen."
-description: "Hi，我是Tony，热情执着，很努力的一个小伙子。我很喜欢编程，喜欢开源社区，它能让我快速地成长。"
+title: "Hello. I'm Tony."
+description: "我热情执着，很努力的一个小伙子。希望自己可以很好地成长，去追求自己需要生活。"
 url: 'http://www.tony.wiki' # the base hostname & protocol for your site
 nav: "true"
 footer_text: 'Copyright © 2016 Tony Chen'

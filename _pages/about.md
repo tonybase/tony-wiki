@@ -31,7 +31,9 @@ permalink: /about/
 ---
 
 #### Employment:
- 
+
+ 中国-上海，哔哩哔哩@Golang工程师 2016
+
  中国-广州，甘果移动@Android部门副经理 2014-2016
 
  中国-柳州，英腾软件@Android工程师 2013-2014
